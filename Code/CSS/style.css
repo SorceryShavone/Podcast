@@ -86,6 +86,10 @@ nav img{
     transition: 1s;
 }
 
+.podcastheader {
+    text-align: center;
+}
+
 /*Phone or Small Screen View*/
 
 nav .fa{
