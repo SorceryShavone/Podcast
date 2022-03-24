@@ -4,15 +4,24 @@
     font-family: 'Lora', serif;
 
 }
+/* Placing image in body to size to page rather than header*/
+body {
+    background-image: url(../img/PodcastBackgroundImg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
 .header{
-    min-height: 100vh;
+    min-height: 100vh; /*
     width: 100%;
     background-image: linear-gradient(rbga(4,9,30,0.7),rbga(4,9,30,0.7)); 
     background-image: url(../img/PodcastBackgroundImg.jpg);
     background-position: center;
     background-size: cover;
-    position: relative;
-}
+    position: relative; */
+} 
 nav{
     display: flex;
     padding: 2% 6%;
