@@ -78,11 +78,11 @@ class Footer extends HTMLElement {
           <!-- Section: Social -->
           <!-- Update Links when Podcast is running -->
           <section class="text-center mb-5">
-            <a href="" class="text-white me-4" target="_blank">
+            <a href="https://www.spotify.com/us/" class="text-white me-4" target="_blank">
               <i class="fab fa-spotify"></i>
             </a>
             <!-- Apple Podcast -->
-            <a href="" class="text-white me-4" target="_blank">
+            <a href="https://www.apple.com/apple-podcasts/" class="text-white me-4" target="_blank">
               <i class="fa fa-podcast"></i>
             </a>
             <a href="instragram.com/womengaloretest123" class="text-white me-4" target="_blank">

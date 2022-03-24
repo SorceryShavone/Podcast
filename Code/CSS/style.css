@@ -106,6 +106,8 @@ nav img{
 
 .podcastheader {
     text-align: center;
+    /*background-color: whitesmoke; */
+    background-color: linear-gradient(to right, rgb(255, 255, 255, .2), rgb(255, 255, 255, 1));
 }
 
 /*Phone or Small Screen View*/
@@ -144,3 +146,27 @@ nav .fa{
     }
     
 }
+
+/* Books Galore Styling */
+
+element.style {
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+*, :after, :before {
+    box-sizing: border-box;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+::selection {
+    background: #00AEEF;
+    color: #fff;
+}
+
