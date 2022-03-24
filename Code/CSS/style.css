@@ -22,6 +22,15 @@ body {
     background-size: cover;
     position: relative; */
 } 
+
+img:hover {
+    border: 1px solid whitesmoke;
+    transform: rotate(0deg) scale(1) translateY(10px);
+    transition: .5s all ease;
+    z-index: 400;
+    
+}
+
 nav{
     display: flex;
     padding: 2% 6%;

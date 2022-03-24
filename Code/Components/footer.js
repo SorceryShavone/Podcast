@@ -3,7 +3,7 @@ class Footer extends HTMLElement {
       super();
     }
   
-    connectedCallback() {
+    connectedCallback() { 
       this.innerHTML = `
 
 
@@ -19,40 +19,40 @@ class Footer extends HTMLElement {
             <div class="row text-center d-flex justify-content-center pt-5">
               <!-- Grid column -->
               <div class="col-md-2">
-                <h6 class="text-uppercase font-weight-bold">
-                  <a href="#!" class="text-white">Home</a>
+                <h6 class="text-capitalize font-weight-bold">
+                  <a href="../index.html" class="text-white">Home</a>
                 </h6>
               </div>
               <!-- Grid column -->
     
               <!-- Grid column -->
               <div class="col-md-2">
-                <h6 class="text-uppercase font-weight-bold">
-                  <a href="#!" class="text-white">About Us</a>
+                <h6 class="text-capitalize font-weight-bold">
+                  <a href="/Code/AboutUs.html" class="text-white">About Us</a>
                 </h6>
               </div>
               <!-- Grid column -->
     
               <!-- Grid column -->
               <div class="col-md-2">
-                <h6 class="text-uppercase font-weight-bold">
-                  <a href="#!" class="text-white">Podcast Episodes</a>
+                <h6 class="text-capitalize font-weight-bold">
+                  <a href="/Code/PodcastEpisodes.html" class="text-white">Podcast Episodes</a>
                 </h6>
               </div>
               <!-- Grid column -->
     
               <!-- Grid column -->
               <div class="col-md-2">
-                <h6 class="text-uppercase font-weight-bold">
-                  <a href="#!" class="text-white">Books</a>
+                <h6 class="text-capitalize font-weight-bold">
+                  <a href="/subservices/BooksGalore.html" class="text-white">Books</a>
                 </h6>
               </div>
               <!-- Grid column -->
     
               <!-- Grid column -->
               <div class="col-md-2">
-                <h6 class="text-uppercase font-weight-bold">
-                  <a href="#!" class="text-white">Other Resources</a>
+                <h6 class="text-capitalize font-weight-bold">
+                  <a href="/subservices/OtherResources.html" class="text-white">Other Resources</a>
                 </h6>
               </div>
               <!-- Grid column -->
@@ -97,7 +97,7 @@ class Footer extends HTMLElement {
     
         <!-- Copyright -->
         <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
-          © 2022 Copyright: Shavone Taylor
+          © 2022 Copyright: <strong>Shavone Taylor</strong>
         </div>
         <!-- Copyright -->
       </footer>
