@@ -58,3 +58,41 @@
       </div>
 </body>
 </html>
+
+<!--Previous Other Resources Page Setup-->
+     <div class="row center">
+        <div class="col-sm-4">
+            <!-- col-md-3 col-6 mb-4 is what was used for div class, may help later for making page responsive-->
+            <a href="https://instagram.com/mamadoctorjones?utm_medium=copy_link">
+              <img src="../img/DanielleJones.jpg" >
+              <h3>"Danielle Jones, MD"</h3>
+              <p class="italic">Board Certified ObGyn</p>
+          </a>
+      </div>
+      <div class="col-sm-4 Breastfeeding">
+              <img src="../img/10steps_successful_breastfeeding.png" target="_blank" >
+              <h3>Breastfeeding Tips</h3>
+          </a>
+      </div>
+      <div class="col-sm-4">
+          <a href="https://instagram.com/drheatherirobundamd?utm_medium=copy_link">
+              <img src="../img/HeatherIrobunda.jpg" >
+              <h3>Heather Irobunda, MD, FACOG</h3>
+              <p class="italic">Repro & Sex Health Med Advisor</p>
+          </a>
+      </div>
+      <div class="col-sm-4">
+          <a href="https://instagram.com/fertilityfriday?utm_medium=copy_link">
+              <img src="../img/Lisa-Hendrickson-Jack.png" >
+              <h3>Lisa Hendrickson-Jack</h3>
+              <p class="italic"> Holistic Reproductive Health Practitioner</p>
+          </a>
+      </div>
+      <div class="col-sm-4">
+          <a href="https://lorettajross.com">
+              <img src="../img/Loretta+J.jpg" >
+              <h3>Loretta J. Ross</h3>
+              <p class="italic"> Activist. Public Intellectual. Professor</p>
+          </a>
+      </div>        
+  </div>
