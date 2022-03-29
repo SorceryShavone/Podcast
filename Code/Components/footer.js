@@ -20,7 +20,7 @@ class Footer extends HTMLElement {
               <!-- Grid column -->
               <div class="col-md-2">
                 <h6 class="text-capitalize font-weight-bold">
-                  <a href="../index.html" class="text-white">Home</a>
+                  <a href="/Podcast/index.html" class="text-white">Home</a>
                 </h6>
               </div>
               <!-- Grid column -->
@@ -28,7 +28,7 @@ class Footer extends HTMLElement {
               <!-- Grid column -->
               <div class="col-md-2">
                 <h6 class="text-capitalize font-weight-bold">
-                  <a href="/Code/AboutUs.html" class="text-white">About Us</a>
+                  <a href="/Podcast/Code/AboutUs.html" class="text-white">About Us</a>
                 </h6>
               </div>
               <!-- Grid column -->
@@ -36,7 +36,7 @@ class Footer extends HTMLElement {
               <!-- Grid column -->
               <div class="col-md-2">
                 <h6 class="text-capitalize font-weight-bold">
-                  <a href="/Code/PodcastEpisodes.html" class="text-white">Podcast Episodes</a>
+                  <a href="/Podcast/Code/PodcastEpisodes.html" class="text-white">Podcast Episodes</a>
                 </h6>
               </div>
               <!-- Grid column -->
@@ -44,7 +44,7 @@ class Footer extends HTMLElement {
               <!-- Grid column -->
               <div class="col-md-2">
                 <h6 class="text-capitalize font-weight-bold">
-                  <a href="/subservices/BooksGalore.html" class="text-white">Books</a>
+                  <a href="/Podcast/Code/subservices/BooksGalore.html" class="text-white">Books</a>
                 </h6>
               </div>
               <!-- Grid column -->
@@ -52,7 +52,7 @@ class Footer extends HTMLElement {
               <!-- Grid column -->
               <div class="col-md-2">
                 <h6 class="text-capitalize font-weight-bold">
-                  <a href="/subservices/OtherResources.html" class="text-white">Other Resources</a>
+                  <a href="/Podcast/Code/subservices/OtherResources.html" class="text-white">Other Resources</a>
                 </h6>
               </div>
               <!-- Grid column -->
