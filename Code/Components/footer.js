@@ -85,7 +85,7 @@ class Footer extends HTMLElement {
             <a href="https://www.apple.com/apple-podcasts/" class="text-white me-4" target="_blank">
               <i class="fa fa-podcast"></i>
             </a>
-            <a href="instragram.com/womengaloretest123" class="text-white me-4" target="_blank">
+            <a href="instragram.com/" class="text-white me-4" target="_blank">
               <i class="fab fa-instagram"></i>
             </a>
             <a href="mailto:womengalore@womengalore.com" class="text-white me-4">
