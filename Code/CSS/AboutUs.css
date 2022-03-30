@@ -4,6 +4,7 @@
     font-family: 'Lora', serif;
 
 }
+
 body{
     background-image: url(../img/FramedLeaves.jpg);
     background-position: center;
@@ -20,12 +21,18 @@ body{
     position: relative; */
 }
 
-img:hover {
-    border: 1px solid whitesmoke;
+#logo:hover {
+    border: 5px solid whitesmoke;
     transform: rotate(0deg) scale(1) translateY(10px);
     transition: .5s all ease;
     z-index: 400;
     
+}
+
+#profileimage:hover{
+    transform: rotate(0deg) scale(1) translateY(10px);
+    transition: .5s all ease;
+    z-index: 400;
 }
 nav{
     display: flex;

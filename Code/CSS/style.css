@@ -23,8 +23,8 @@ body {
     position: relative; */
 } 
 
-img:hover {
-    border: 1px solid whitesmoke;
+#logo:hover {
+    border: 5px solid whitesmoke;
     transform: rotate(0deg) scale(1) translateY(10px);
     transition: .5s all ease;
     z-index: 400;
@@ -68,6 +68,11 @@ nav img{
 
 .nav-links ul li:hover::after{
     width: 100%;  
+}
+
+#Empathize:hover, #Educate:hover, #Empower:hover {
+   /*font-style: italic; */
+    text-decoration:underline; 
 }
 .text-box{
     width: 90%;
@@ -170,3 +175,13 @@ div {
     color: #fff;
 }
 
+#BooksGalore {
+    box-sizing: inherit;
+
+}
+
+
+
+#BGa {
+    color: inherit;
+}
