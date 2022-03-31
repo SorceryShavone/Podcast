@@ -23,7 +23,7 @@ body{
 
 #logo:hover {
     border: 5px solid whitesmoke;
-    transform: rotate(0deg) scale(1) translateY(10px);
+    transform: rotate(0deg) scale(1) translateY(0px);
     transition: .5s all ease;
     z-index: 400;
     

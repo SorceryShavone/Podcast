@@ -24,11 +24,15 @@ body {
 } 
 
 #logo:hover {
-    border: 5px solid whitesmoke;
-    transform: rotate(0deg) scale(1) translateY(10px);
+    border: 5px solid whitesmoke; 
+    transform: rotate(0deg) scale(1) translateY(0px);
     transition: .5s all ease;
     z-index: 400;
     
+}
+
+h5 {
+    background-color: rgb(248, 246, 246);
 }
 
 nav{
@@ -73,6 +77,7 @@ nav img{
 #Empathize:hover, #Educate:hover, #Empower:hover {
    /*font-style: italic; */
     text-decoration:underline; 
+    text-decoration-thickness: 4px;
 }
 .text-box{
     width: 90%;
